@@ -20,3 +20,4 @@ s.hello();
 // add a property after the object has been instantiated
 
 // add a static function
+
